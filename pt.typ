@@ -22,11 +22,35 @@
 )
 
 == Sobre mim
-Profissional com experiência na organização e produção técnica de eventos, atualmente envolvido na coordenação de um congresso internacional, com responsabilidade na infraestrutura técnica de som, vídeo e gestão de apresentações.
 
-Background em desenvolvimento de software, com forte capacidade de resolução de problemas, automação e integração de sistemas.
+*Full Stack Developer na Setwin*, onde lidero uma equipa de developers no desenvolvimento de uma plataforma de e-commerce B2B e B2C, integrada com sistemas ERP, métodos de envio, opções de pagamento, entre outros.
+Adicionalmente, faço a gestão de clusters Kubernetes (QA e produção), implementando práticas de GitOps com ferramentas como Argo CD, Helm e Kustomize, e conduzindo sessões internas de formação para capacitar a equipa de desenvolvimento.
 
-Interesse em evoluir na área de produção técnica (audiovisuais), com foco em eventos corporativos e congressos.
+Experiência anterior em plataformas para seguradoras dos EUA (Guidewire), baseadas em Gosu e Java.
+
+Experiência em PHP, MySQL, SQL Server e sistemas Linux/Windows, com foco em interfaces responsivas utilizando Tailwind CSS. Trabalho também com automação e integrações através de n8n.
+
+Experiência em customização de ERP (CEGID Primavera), plataformas WordPress e trabalho em ambientes Agile/Scrum, com coordenação de equipa e projetos.
+
+Interesse por criar soluções eficientes, aprendizagem contínua e entrega de impacto real.
+
+== Educação
+
+#edu(
+  institution: "Escola Superior de Tecnologia e Gestão, Politécnico de Leiria",
+  location: "Leiria",
+  dates: dates-helper(start-date: "Set 2021", end-date: "Jun 2023"),
+  degree: "Técnico Superior Profissional - Tecnologias Informáticas",
+  consistent: true
+)
+
+#edu(
+  institution: "Escola Secundária Dr. Augusto César da Silva Ferreira",
+  location: "Rio Maior, Santarém",
+  dates: dates-helper(start-date: "Set 2018", end-date: "Jul 2021"),
+  degree: "Técnico de Informática - Sistemas",
+  consistent: true
+)
 
 == Experiência Profissional
 
@@ -34,7 +58,7 @@ Interesse em evoluir na área de produção técnica (audiovisuais), com foco em
   title: "Full Stack Developer",
   location: "Leiria, PT",
   company: "Setwin - Business Solutions, Lda",
-  dates: dates-helper(start-date: "Jun 2023", end-date: "Presente"),
+  dates: dates-helper(start-date: "Jun 2023", end-date: "Abr 2026"),
 )
 - Gestão de clusters Kubernetes (QA e produção) com mais de 10 aplicações, utilizando Argo CD, Helm e Kustomize para deployments em GitOps, e dinamização de formação interna.
 - Desenvolvimento de aplicações web com Vue.js/Nuxt (frontend) e Laravel/Django (backend), seguindo boas práticas.
@@ -43,43 +67,11 @@ Interesse em evoluir na área de produção técnica (audiovisuais), com foco em
 - Manutenção de aplicações legadas de clientes, desenvolvidas em PHP.
 - Colaboração com equipas multidisciplinares para entregar soluções escaláveis e de elevada qualidade, com foco em performance, fiabilidade e manutenção.
 
-#extracurriculars(
-  activity: "Organização - I Congresso Internacional de Medicina Chinesa (Almada, Portugal)",
-  dates: dates-helper(start-date: "Jan 2026", end-date: "Presente"),
-)
-- Organização do I Congresso Internacional de Medicina Chinesa, em conjunto com a equipa da SPMC (Sociedade Portuguesa de Medicina Chinesa), a realizar nos dias 17 a 19 de abril de 2026, em Almada.
-- Responsável pelo design e criação do website oficial do Congresso.
-- Coordenação entre as diversas equipas técnicas - som, fotografia, vídeo e infraestrutura.
-- Organização de infraestrutura técnica nas áreas de som e vídeo - vídeo sobre Ethernet, controlo de tempos de oradores, equipamentos redundantes - para melhor organização e fluidez do Congresso.
-- Desenvolvimento de aplicação para controlo de tempos em palco (Stage Timer).
-
-#extracurriculars(
-  activity: "PyCon 2025 (Cascais, Portugal)",
-  dates: dates-helper(start-date: "Jul 2025", end-date: "Jul 2025"),
-)
-- Participação como voluntário na conferência PyCon Portugal 2025, em Cascais.
-- Responsável pela receção e apresentação de oradores em palco, coordenação com equipas técnicas de som e vídeo e organização de sessões e palestras.
-- Apresentação do projeto AI CMS, para um público da área de desenvolvimento de software e data science.
-
-#extracurriculars(
-  activity: "DjangoCon 2025 (Dublin, Irlanda)",
-  dates: dates-helper(start-date: "Abr 2025", end-date: "Abr 2025"),
-)
-- Participação como voluntário na conferência DjangoCon Europe 2025, em Dublin.
-- Responsável pela receção e apresentação de oradores em palco, coordenação com equipas técnicas de som e vídeo e organização de sessões e palestras.
-
-#extracurriculars(
-  activity: "PyCon 2024 (Braga, Portugal)",
-  dates: dates-helper(start-date: "Out 2024", end-date: "Out 2024"),
-)
-- Participação como voluntário na conferência PyCon Portugal 2024, em Braga.
-- Responsável pela receção e apresentação de oradores em palco, coordenação com equipas técnicas de som e vídeo e organização de sessões e palestras.
-
 #work(
   title: "Consultor",
   location: "Remote",
   company: "Deloitte Portugal",
-  dates: dates-helper(start-date: "Sep 2021", end-date: "Jun 2023"),
+  dates: dates-helper(start-date: "Set 2021", end-date: "Jun 2023"),
 )
 - Prestação de serviços de consultoria e desenvolvimento na área de Core Business Operations (Financial Services), no âmbito do programa BrightStart (TeSP + estágio).
 - Desenvolvimento e implementação de soluções na plataforma Guidewire PolicyCenter (v10) para uma seguradora norte-americana de P&C, utilizando Gosu/Java.
@@ -88,13 +80,6 @@ Interesse em evoluir na área de produção técnica (audiovisuais), com foco em
 - Suporte a integrações e melhorias de sistema alinhadas com processos de negócio do setor segurador.
 
 == Projetos
-
-#project(
-  name: "Stage Timer com Integração Pretalx",
-)
-- Desenvolvimento de uma aplicação nativa e multiplataforma para controlo de tempos de oradores em palco
-- Integração com a plataforma Pretalx para sincronização de oradores e sessões
-- Foco na simplificação e criação de algo inovador e acessível a eventos de menores dimensões
 
 #project(
   name: "AI CMS (Projeto PyCon Portugal 2025)",
@@ -109,7 +94,7 @@ Interesse em evoluir na área de produção técnica (audiovisuais), com foco em
 
 #extracurriculars(
   activity: "Competidor – Campeonato de Portugal de Novas Energias (CPNE)",
-  dates: dates-helper(start-date: "Jun 2025", end-date: "Presente"),
+  dates: dates-helper(start-date: "2025", end-date: "Presente"),
 )
 - Participação em provas nacionais de ralis elétricos, com foco em precisão, gestão de tempo e eficiência energética.
 - Planeamento de estratégia de prova, incluindo gestão de percurso e cumprimento de tempos ideais em cada setor.
@@ -117,7 +102,6 @@ Interesse em evoluir na área de produção técnica (audiovisuais), com foco em
 
 == Competências
 
-- Eventos: coordenação técnica (som, vídeo, apresentações), gestão de oradores e sessões, setup e troubleshooting audiovisual, ferramentas de streaming e gravação de vídeo
 - Linguagens de Programação: PHP, JavaScript, Python, SQL
 - Frameworks & Bibliotecas: Vue.js, Nuxt, Laravel, Django
 - Frontend: Tailwind CSS, Design Responsivo
