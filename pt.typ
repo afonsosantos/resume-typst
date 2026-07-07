@@ -100,6 +100,52 @@ Interesse por criar soluções eficientes, aprendizagem contínua e entrega de i
 - Planeamento de estratégia de prova, incluindo gestão de percurso e cumprimento de tempos ideais em cada setor.
 - Atuação em condições de tempo real sob pressão, exigindo foco, consistência e tomada de decisão rápida.
 
+
+== Certificados
+
+#certificates(
+  name: "LFS158: Introdução ao Kubernetes",
+  issuer: "The Linux Foundation",
+  date: "Ago 2025",
+)
+
+#certificates(
+  name: "WHM Administration Certification Exam",
+  issuer: "cPanel",
+  date: "Jul 2024",
+)
+
+#certificates(
+  name: "cPanel Professional Certification Exam (CPP)",
+  issuer: "cPanel",
+  date: "Jul 2024",
+)
+
+#certificates(
+  name: "Microsoft Certified: Azure Fundamentals (SC-900)",
+  issuer: "Microsoft",
+  date: "Jan 2023",
+)
+
+#certificates(
+  name: "AWS Cloud Practitioner Essentials",
+  issuer: "AWS",
+  date: "Dez 2022",
+)
+
+#certificates(
+  name: "Microsoft Certified: Azure Fundamentals (AZ-900)",
+  issuer: "Microsoft",
+  date: "Mai 2022",
+)
+
+#certificates(
+  name: "IT Essentials",
+  issuer: "Cisco",
+  date: "Abr 2021",
+)
+
+
 == Competências
 
 - Linguagens de Programação: PHP, JavaScript, Python, SQL
