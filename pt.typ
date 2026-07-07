@@ -23,16 +23,11 @@
 
 == Sobre mim
 
-*Full Stack Developer na Setwin*, onde lidero uma equipa de developers no desenvolvimento de uma plataforma de e-commerce B2B e B2C, integrada com sistemas ERP, métodos de envio, opções de pagamento, entre outros.
-Adicionalmente, faço a gestão de clusters Kubernetes (QA e produção), implementando práticas de GitOps com ferramentas como Argo CD, Helm e Kustomize, e conduzindo sessões internas de formação para capacitar a equipa de desenvolvimento.
+Sou Programador Full-Stack apaixonado por tecnologia e pela resolução de problemas através do software. Tenho experiência no desenvolvimento de aplicações web, integração de sistemas e gestão de infraestruturas modernas com Kubernetes e Docker, trabalhando diariamente com PHP, JavaScript, Python, Laravel, Vue.js e bases de dados SQL.
 
-Experiência anterior em plataformas para seguradoras dos EUA (Guidewire), baseadas em Gosu e Java.
+Destaco-me pela capacidade de aprender rapidamente novas tecnologias, adaptar-me a diferentes desafios e desenvolver soluções fiáveis, escaláveis e focadas nas necessidades dos utilizadores e do negócio.
 
-Experiência em PHP, MySQL, SQL Server e sistemas Linux/Windows, com foco em interfaces responsivas utilizando Tailwind CSS. Trabalho também com automação e integrações através de n8n.
-
-Experiência em customização de ERP (CEGID Primavera), plataformas WordPress e trabalho em ambientes Agile/Scrum, com coordenação de equipa e projetos.
-
-Interesse por criar soluções eficientes, aprendizagem contínua e entrega de impacto real.
+Encontro-me atualmente à procura de uma nova oportunidade profissional, com disponibilidade imediata, onde possa continuar a crescer tecnicamente e contribuir para projetos inovadores e de elevado impacto.
 
 == Educação
 
