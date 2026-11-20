@@ -27,7 +27,7 @@ I am a Full-Stack Software Developer with a passion for technology and solving r
 
 I am known for my ability to quickly learn new technologies, adapt to new challenges, and deliver reliable, scalable solutions that meet both user and business needs.
 
-I am currently seeking a new professional opportunity and am available to start immediately. I am looking to join a team where I can continue to grow professionally, contribute my technical expertise, and help build innovative, high-impact software solutions.
+I am currently working as a Developer at Visionsoft, building industrial software (MES) for Industry 4.0 manufacturing clients, where I continue to grow professionally, contribute my technical expertise, and help build innovative, high-impact software solutions.
 
 == Education
 
@@ -50,10 +50,22 @@ I am currently seeking a new professional opportunity and am available to start 
 == Work Experience
 
 #work(
+  title: "Developer",
+  location: "Leiria, PT",
+  company: "Visionsoft - Software Solutions",
+  dates: dates-helper(start-date: "Aug 2026", end-date: "Present"),
+)
+- Develop and maintain industrial software solutions (MES) for production management and traceability, supporting Industry 4.0 manufacturing clients.
+- Build and optimize features using PHP, HTML, CSS, JavaScript, and jQuery, following object-oriented programming practices.
+- Design and query SQL databases to support production control and data acquisition systems.
+- Identify, debug, and resolve code issues, applying best practices for code quality.
+- Collaborate with cross-functional teams to deliver reliable software for large industrial clients, using Git and SVN for version control.
+
+#work(
   title: "Full Stack Developer",
   location: "Leiria, PT",
   company: "Setwin - Business Solutions, Lda",
-  dates: dates-helper(start-date: "Jun 2023", end-date: "Present"),
+  dates: dates-helper(start-date: "Jun 2023", end-date: "Apr 2026"),
 )
 - Managed Kubernetes clusters (QA and production) hosting 10+ applications, using Argo CD, Helm, and Kustomize for GitOps deployments, and led team training.
 - Developed web applications with Vue.js/Nuxt (frontend) and Laravel/Django (backend), following best practices.
@@ -148,13 +160,14 @@ I am currently seeking a new professional opportunity and am available to start 
 == Skills
 
 - Programming Languages: PHP, JavaScript, Python, SQL
-- Frameworks & Libraries: Vue.js, Nuxt, Laravel, Django
+- Frameworks & Libraries: Vue.js, Nuxt, Laravel, Django, jQuery
 - Frontend: Tailwind CSS, Responsive Design
 - Databases & Caching: MySQL, SQL Server, Redis
 - DevOps & Infrastructure: Kubernetes, Docker, Linux, Windows, Bash
 - GitOps & CI/CD: Argo CD, Helm, Kustomize, Jenkins
+- Version Control: Git, SVN
 - Automation & Integration: Celery, n8n, REST APIs, API Integration
 - AI & APIs: OpenAI API, DeepSeek API
-- Platforms & CMS: WordPress, CEGID Primavera
+- Platforms & CMS: WordPress, CEGID Primavera, MES (Industry 4.0)
 - Methodologies: Agile, Scrum
 - Other: System Integration, Automation, Team Leadership, Project Coordination

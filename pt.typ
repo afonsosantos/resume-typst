@@ -27,7 +27,7 @@ Sou Programador Full-Stack apaixonado por tecnologia e pela resolução de probl
 
 Destaco-me pela capacidade de aprender rapidamente novas tecnologias, adaptar-me a diferentes desafios e desenvolver soluções fiáveis, escaláveis e focadas nas necessidades dos utilizadores e do negócio.
 
-Encontro-me atualmente à procura de uma nova oportunidade profissional, com disponibilidade imediata, onde possa continuar a crescer tecnicamente e contribuir para projetos inovadores e de elevado impacto.
+Atualmente trabalho como Developer na Visionsoft, no desenvolvimento de software industrial (MES) para clientes da Indústria 4.0, onde continuo a crescer tecnicamente e a contribuir para projetos inovadores e de elevado impacto.
 
 == Educação
 
@@ -48,6 +48,18 @@ Encontro-me atualmente à procura de uma nova oportunidade profissional, com dis
 )
 
 == Experiência Profissional
+
+#work(
+  title: "Developer",
+  location: "Leiria, PT",
+  company: "Visionsoft - Software Solutions",
+  dates: dates-helper(start-date: "Ago 2026", end-date: "Presente"),
+)
+- Desenvolvimento e manutenção de soluções de software industrial (MES) para gestão e rastreabilidade da produção, ao serviço de clientes industriais no contexto da Indústria 4.0.
+- Desenvolvimento e otimização de funcionalidades em PHP, HTML, CSS, JavaScript e jQuery, seguindo práticas de programação orientada a objetos.
+- Modelação e consulta de bases de dados SQL de suporte a sistemas de controlo de produção e aquisição de dados.
+- Identificação, depuração e resolução de problemas no código, aplicando boas práticas de qualidade.
+- Colaboração com equipas multidisciplinares na entrega de software fiável para grandes clientes industriais, utilizando Git e SVN para controlo de versões.
 
 #work(
   title: "Full Stack Developer",
@@ -144,13 +156,14 @@ Encontro-me atualmente à procura de uma nova oportunidade profissional, com dis
 == Competências
 
 - Linguagens de Programação: PHP, JavaScript, Python, SQL
-- Frameworks & Bibliotecas: Vue.js, Nuxt, Laravel, Django
+- Frameworks & Bibliotecas: Vue.js, Nuxt, Laravel, Django, jQuery
 - Frontend: Tailwind CSS, Design Responsivo
 - Bases de Dados & Cache: MySQL, SQL Server, Redis
 - DevOps & Infraestrutura: Kubernetes, Docker, Linux, Windows, Bash
 - GitOps & CI/CD: Argo CD, Helm, Kustomize, Jenkins
+- Controlo de Versões: Git, SVN
 - Automação & Integração: Celery, n8n, REST APIs, Integração de APIs
 - IA & APIs: OpenAI API, DeepSeek API
-- Plataformas & CMS: WordPress, CEGID Primavera
+- Plataformas & CMS: WordPress, CEGID Primavera, MES (Indústria 4.0)
 - Metodologias: Agile, Scrum
 - Outros: Integração de Sistemas, Automação, Liderança de Equipa, Coordenação de Projetos
